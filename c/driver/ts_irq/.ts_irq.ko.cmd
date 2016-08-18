@@ -1,0 +1,1 @@
+cmd_/home/richard/work_file/my_code/driver/ts_irq/ts_irq.ko := arm-arago-linux-gnueabi-ld -EL -r  -T /home/richard/work_file/kernel/mini_kernel/scripts/module-common.lds --build-id  -o /home/richard/work_file/my_code/driver/ts_irq/ts_irq.ko /home/richard/work_file/my_code/driver/ts_irq/ts_irq.o /home/richard/work_file/my_code/driver/ts_irq/ts_irq.mod.o

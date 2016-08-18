@@ -1,0 +1,1 @@
+cmd_/home/richard/work_file/my_code/driver/timer/hello.ko := arm-arago-linux-gnueabi-ld -EL -r  -T /home/richard/work_file/kernel/mini_kernel/scripts/module-common.lds --build-id  -o /home/richard/work_file/my_code/driver/timer/hello.ko /home/richard/work_file/my_code/driver/timer/hello.o /home/richard/work_file/my_code/driver/timer/hello.mod.o

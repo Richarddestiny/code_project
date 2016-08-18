@@ -1,0 +1,1 @@
+cmd_/home/richard/work_file/my_code/driver/lcd_reg/lcd_clean.ko := arm-arago-linux-gnueabi-ld -EL -r  -T /home/richard/work_file/system_update_backup/kernel/scripts/module-common.lds --build-id  -o /home/richard/work_file/my_code/driver/lcd_reg/lcd_clean.ko /home/richard/work_file/my_code/driver/lcd_reg/lcd_clean.o /home/richard/work_file/my_code/driver/lcd_reg/lcd_clean.mod.o

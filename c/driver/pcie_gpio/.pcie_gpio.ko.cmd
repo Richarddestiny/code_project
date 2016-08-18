@@ -1,0 +1,1 @@
+cmd_/home/richard/work/my_code/driver/pcie_gpio/pcie_gpio.ko := arm-arago-linux-gnueabi-ld -EL -r  -T /opt/work_file/work/kernel/mini_kernel/scripts/module-common.lds --build-id  -o /home/richard/work/my_code/driver/pcie_gpio/pcie_gpio.ko /home/richard/work/my_code/driver/pcie_gpio/pcie_gpio.o /home/richard/work/my_code/driver/pcie_gpio/pcie_gpio.mod.o
